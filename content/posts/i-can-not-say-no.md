@@ -1,3 +1,9 @@
+---
+title: "I can not say no"
+description: "Is non violence always right"
+date: "2026-03-23"
+---
+
 Someone I know was going through a painful situation. Her boyfriend’s parents were against their relationship. And he loves his parents deeply—who doesn’t?
 
 Now he stands at a crossroads, holding a choice that feels almost cruel in its nature. A heartbreaking, nerve-wrenching dilemma: how do you choose whom to hurt?
