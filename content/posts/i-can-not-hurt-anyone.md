@@ -98,6 +98,9 @@ Arjuna, by refusing to fight, would not have avoided violence—he would have al
 
 And by choosing to fight, he was not embracing violence—he was containing it.
 
+### What should he do?
+It’s not about what he should do. It’s more about how he should view the situation — how he can avoid being blinded by emotions and see things clearly. Once there is clarity, the right action becomes easier to identify and execute.
+
 ### Takeaways
 
 Sometimes, what looks like violence is actually compassion in disguise.
