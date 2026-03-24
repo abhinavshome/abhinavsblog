@@ -18,7 +18,7 @@ export default function RootLayout({
         <header className="site-header">
           <div className="shell site-header-inner">
             <Link className="brand" href="/">
-              ABHINAV BLOG
+              abhinav's blog
             </Link>
             <nav className="nav">
               <Link href="/">About</Link>
