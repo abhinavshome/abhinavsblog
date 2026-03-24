@@ -6,8 +6,10 @@ const basePath = process.env.BASE_PATH || "";
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  assetPrefix: basePath || undefined,
-  basePath,
+  // assetPrefix: basePath || undefined,
+  // basePath,
+  basePath: '',
+  assetPrefix: '',
   output: "export",
   images: {
     unoptimized: true

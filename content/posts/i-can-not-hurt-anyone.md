@@ -1,7 +1,7 @@
 ---
 title: "I can not hurt anyone"
 description: "Is non violence always right"
-date: "2026-03-23"
+date: "2026-03-24"
 ---
 
 Someone I know was going through a painful situation. Her boyfriend’s parents were against their relationship. And he loves his parents deeply—who doesn’t?
